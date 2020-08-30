@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c65e05ae-2ebf-49e2-8483-589de1c6bc8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gE8oTWMnJxr9pgs1F7VrB3ZUrj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../module" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c65e05ae-2ebf-49e2-8483-589de1c6bc8a" name="Default Changelist" comment="" />
+      <created>1597668565096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597668565096</updated>
+      <workItem from="1597668567935" duration="4616000" />
+      <workItem from="1597675298254" duration="124000" />
+      <workItem from="1597675481470" duration="488000" />
+      <workItem from="1597676869369" duration="8594000" />
+      <workItem from="1597689601269" duration="5392000" />
+      <workItem from="1597767782185" duration="6346000" />
+      <workItem from="1597821223686" duration="23000" />
+      <workItem from="1597845182057" duration="621000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="130" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597773312808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="390" y="130" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1597773312808" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1597866617079">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1597866617079" />
+  </component>
+</project>

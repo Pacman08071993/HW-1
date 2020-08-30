@@ -1,0 +1,38 @@
+blockquote{
+    color: green;
+}
+ [href^="https://"]{
+    color: red;
+}
+ .holder > ul > li:last-child>a{
+    background-color: green;
+ }
+ ul+p{
+     font-size: 26px;
+ }
+ .text-box > :first-child {
+     color:pink;
+ }
+ #greycol{
+     color: grey;
+ }
+ .text-box > div > p {
+     color: red;
+ }
+ .text-box :nth-child(7){
+     color:green;
+ }
+
+ .yellow{
+     color: yellow;
+ }
+ .bg-box{
+     width: 600px;
+     height: 600px;
+     background:url("../img/pole-zelen-trava-dom-derevya.jpg") center center / 200px 150px no-repeat,
+                url("../img/lamp-png-0.png")100% 0 / 40px 60px repeat-x,
+                url("../img/grass-png-images-pictures-transparent-28.png") 0 100% /200px 100px repeat-x,
+                url("../img/yezyk.png")  0 100% / 30px 30px repeat-y,
+                url("../img/photo_2020-08-03_09-33-20.jpg")100% 0 / 30px 30px repeat-y content-box,
+                green;
+ }
